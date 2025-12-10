@@ -76,7 +76,7 @@ end
 ![Скріншот моделі в процесі симуляції](EXP02.jpg)
 
 Фінальний код моделі та її інтерфейс доступні за 
-[посиланням](Urban Suite_Pollution_mod.nlogox)
+[посиланням](Urban_Suite_Pollution_mod.nlogox)
 
 <br>
 
